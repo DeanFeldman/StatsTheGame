@@ -2,7 +2,8 @@
 
 ## Transcript export status
 
-**Pending — no raw Codex transcript export was available from this environment.**
+**Resolved on 2026-10-11:** original conversation messages were imported from local session logs into
+[`2026-09-25-to-2026-09-26-issue-713-account-navigation-conversation.md`](2026-09-25-to-2026-09-26-issue-713-account-navigation-conversation.md).
 This file is a sanitized evidence record, not a reconstructed transcript. It
 records only the assistance and verification actually used for issue #713.
 
@@ -82,3 +83,6 @@ cookies, private URLs, or unnecessary personal information.
 - Follow-up implementation commit: `780e7db1f94564a973ac89bde35e73f04bf593a1`
 - Final label implementation commit: `6289da2874270745a9cf356b08f14d96561d34eb`
 - Pull request: pending
+
+
+The transcript-status reconciliation was assisted by Codex[GPT-6.1 Sol].
